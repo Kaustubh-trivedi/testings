@@ -1,1 +1,5 @@
 Just first change
+
+git init
+
+git status
